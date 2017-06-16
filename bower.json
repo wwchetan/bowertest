@@ -1,0 +1,20 @@
+{
+  "name": "bowertest",
+  "homepage": "https://github.com/wwchetan/bowertest",
+  "authors": [
+    "wwchetan<wwchetan@gmail.com>"
+  ],
+  "description": "Bower test in Javascript",
+  "main": "test.js",
+  "keywords": [
+    "bowertest"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
